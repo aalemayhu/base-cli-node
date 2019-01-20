@@ -1,7 +1,7 @@
 {
   "name": "\(name)",
   "version": "0.0.0",
-  "description": "\(description)",
+  "description": "TODO: add the project description here",
   "main": "\(name).js",
   "scripts": {
     "test": "jasmine",
