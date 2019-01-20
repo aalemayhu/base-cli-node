@@ -1,2 +1,3 @@
 # base-cli-node
-a project for setting my node projects
+
+a project for setting up my node projects.
