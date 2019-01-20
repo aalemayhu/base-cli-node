@@ -4,7 +4,7 @@
   "description": "TODO: add the project description here",
   "main": "\(name).js",
   "scripts": {
-    "test": "jasmine",
+    "lint": "eslint --fix lib/project_setup.js",
     "format": "js-beautify -r *.js"
   },
   "repository": {
