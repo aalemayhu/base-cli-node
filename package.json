@@ -2,14 +2,14 @@
   "name": "\(name)",
   "version": "0.0.0",
   "description": "\(description)",
-  "main": "\(safeName).js",
+  "main": "\(name).js",
   "scripts": {
     "test": "jasmine",
     "format": "js-beautify -r *.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/scanf/\(safeName).git"
+    "url": "git+https://github.com/scanf/\(name).git"
   },
   "keywords": [
     "git",
@@ -19,10 +19,10 @@
   "author": "Alexander Alemayhu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/scanf/\(safeName)/issues"
+    "url": "https://github.com/scanf/\(name)/issues"
   },
-  "homepage": "https://github.com/scanf/\(safeName)#readme", 
+  "homepage": "https://github.com/scanf/\(name)#readme", 
   "bin": {
-    "\(safeName)": "./\(safeName).js"
+    "\(name)": "./\(name).js"
   }
 }
