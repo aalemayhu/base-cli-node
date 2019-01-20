@@ -4,8 +4,7 @@
   "description": "TODO: add the project description here",
   "main": "\(name).js",
   "scripts": {
-    "lint": "eslint --fix lib/project_setup.js",
-    "format": "js-beautify -r *.js"
+    "lint": "eslint --fix lib/project_setup.js"
   },
   "repository": {
     "type": "git",
